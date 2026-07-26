@@ -85,14 +85,14 @@ td{
 }
 
 .time{
-    display: flex;
-    gap: 15px;
-    margin-left: 40px;
+    display: block;
+  gap: 15px;
+  margin-left: 45px;
 }
 
 h4{
-    padding: 10px;
-    font-size: 16px;
+   padding: 17px;
+  font-size: 20px;
 }
 
 /* ================= TABLET ================= */

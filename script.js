@@ -56,24 +56,25 @@ days = [
 let day = days[x.getDay()];
 console.log(day);
 if (day == "saturday") {
-  satur.style.color = "red";
+  satur.style.color = "Red";
 } else if (day == "sunday") {
-  sun.style.color = "red";
+  sun.style.color = "Red";
 } else if (day == "monday") {
-  mon.style.color = "red";
+  mon.style.color = "Red";
 } else if (day == "tuesday") {
-  tues.style.color = "red";
+  tues.style.color = "Red";
 } else if (day == "wednesday") {
-  wed.style.color = "red";
+  wed.style.color = "Red";
 } else if (day == "thursday") {
-  thurs.style.color = "red";
+  thurs.style.color = "Red";
 } else if (day == "friday") {
-  fri.style.color = "red";
+  fri.style.color = "Red";
 }
+
 
 h = x.getHours();
 if (h < 12) {
-  am.style.color = "red";
+  am.style.color = "Red";
 } else {
-  pm.style.color = "red";
+  pm.style.color = "Red";
 }

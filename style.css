@@ -164,6 +164,7 @@ h4{
     .time{
         width: 100%;
         justify-content: center;
+        text-align: center;
         margin: 15px 0 0;
     }
 
